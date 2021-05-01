@@ -5,6 +5,7 @@ class User
     @name = name
     @age = age
     @hobby = hobby
+    puts "name: #{name}"
   end
 end 
 
